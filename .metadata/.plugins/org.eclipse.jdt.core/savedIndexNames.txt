@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+E:\Java\TuHoc\.metadata\.plugins\org.eclipse.jdt.core
+113033589.index
+3947683423.index
+1277146372.index
+1865797976.index
+776701639.index
+3959137331.index
