@@ -5,6 +5,7 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1675871006454_3" label="Fresher Academy" name="Fresher Academy">
 <item elementID="=EducationBoard" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Helloworld" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BasicOOP" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1675871022567_4" label="Banking" name="Banking">
 <item elementID="=BankingCore" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
